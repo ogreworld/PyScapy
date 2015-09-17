@@ -1,0 +1,14 @@
+ChangeHistory.txt
+setup.py
+PyScapy/__init__.py
+PyScapy/dot11_parse.py
+PyScapy.egg-info/PKG-INFO
+PyScapy.egg-info/SOURCES.txt
+PyScapy.egg-info/dependency_links.txt
+PyScapy.egg-info/not-zip-safe
+PyScapy.egg-info/top_level.txt
+PyScapy/data/__init__.py
+PyScapy/data/mcs.py
+PyScapy/data/packet/__init__.py
+PyScapy/data/packet/beacon_2g4.pcap
+PyScapy/data/packet/beacon_5g.pcap

@@ -1,0 +1,70 @@
+v1.0.5
+
+Major Features
+1、add function for send beacon
+
+Minor Changes
+
+Fixed Issues
+
+Known Issues
+-------------------------------------
+v1.0.4
+
+Major Features
+1、modify doc string
+2、change function _is_from_ds, _is_to_ds to is_from_ds, is_to_ds
+3、modify for specification
+
+Minor Changes
+
+Fixed Issues
+
+Known Issues
+-------------------------------------
+v1.0.3
+
+Major Features
+1、modify get_cur_rate for 5g
+2、add eval_lfilter for PyScapy
+
+Minor Changes
+
+Fixed Issues
+
+Known Issues
+-------------------------------------
+v1.0.2
+
+Major Features
+1、add some function for get mac addr
+2. modify get_wps_config
+
+Minor Changes
+
+Fixed Issues
+
+Known Issues
+-------------------------------------
+v1.0.1
+
+Major Features
+1、add some function for bandwidth, short gi, wireless mode, channel
+2、use mcs.py instead of mcs.xls
+
+Minor Changes
+
+Fixed Issues
+
+Known Issues
+-------------------------------------
+v1.0.0
+
+Major Features
+1、PyScapy is the api for scapy
+
+Minor Changes
+
+Fixed Issues
+
+Known Issues

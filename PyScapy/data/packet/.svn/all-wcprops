@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Testing/Public/!svn/ver/771/LIB/pyscapy/branches/1.0.x/PyScapy/data/packet
+END
+beacon_5g.pcap
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Testing/Public/!svn/ver/771/LIB/pyscapy/branches/1.0.x/PyScapy/data/packet/beacon_5g.pcap
+END
+beacon_2g4.pcap
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Testing/Public/!svn/ver/771/LIB/pyscapy/branches/1.0.x/PyScapy/data/packet/beacon_2g4.pcap
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Testing/Public/!svn/ver/771/LIB/pyscapy/branches/1.0.x/PyScapy/data/packet/__init__.py
+END
